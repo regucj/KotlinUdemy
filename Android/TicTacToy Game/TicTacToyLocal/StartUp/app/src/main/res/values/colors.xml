@@ -19,5 +19,18 @@
     <color name="whiteback"  >#f9f9f9</color>
     <color name="whitebackground"  >#d4d3d3</color>
     <color name="black"  >#FF040303</color>
+        
+        <color name="cyan"  >#64ffda</color>
+        <color name="Lime"  >#eeff41</color>
+        <color name="DeepOrange">#ff5722</color>
+        <color name="Treebrown">#795548</color>
+        <color name="Limegreen"  >#c6ff00</color>
+        <color name="indigo"  >#6f74dd</color>
+        <color name="Teal"  >#009688</color>
+        <color name="Amber"  >#ffb300</color>
+
+
+    
+    
 
 </resources>
